@@ -1,6 +1,6 @@
 # [Americas COVID Vaccine Dashboard](https://github.com/shirshod/americas_covidvaccine_dashboard/blob/main/latin-america-covid-dashboard-builder.ipynb)
 
-By: Rosmery Izaguirre, Shirsho Dasgupta and Albert Franquiz (2021)
+By: Shirsho Dasgupta, Rosmery Izaguirre and Albert Franquiz (2021)
 
 ### Notes:
 
